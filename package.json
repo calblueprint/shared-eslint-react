@@ -1,0 +1,30 @@
+{
+  "name": "@calblueprint/eslint-config-react",
+  "version": "1.0.0",
+  "description": "Shared eslint configs for Cal Blueprint projects",
+  "main": "eslint-config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calblueprint/shared-eslint-react.git"
+  },
+  "author": "Annie Wang <anniedwang02@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calblueprint/shared-eslint-react/issues"
+  },
+  "homepage": "https://github.com/calblueprint/shared-eslint-react#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.52.0",
+    "@typescript-eslint/parser": "^5.52.0",
+    "eslint": "^8.34.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-jsx-a11y": "^6.7.1",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "typescript": "^4.9.5"
+  }
+}
