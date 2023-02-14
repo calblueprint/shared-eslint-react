@@ -1,7 +1,7 @@
 {
   "name": "@calblueprint/eslint-config-react",
-  "version": "0.0.2",
-  "description": "Shared eslint configs for Cal Blueprint projects",
+  "version": "0.0.3",
+  "description": "Shared ESLint configs for Cal Blueprint projects",
   "main": "eslint-config.js",
   "scripts": {
     "lint": "eslint ."
