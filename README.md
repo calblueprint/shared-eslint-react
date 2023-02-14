@@ -30,3 +30,5 @@ This package provides a shared ESLint configuration for use on React projects.
       extends: ['@calblueprint/eslint-config-react'],
     };
     ```
+
+4. Test that the config is working by running `npx eslint .` in your project's root directory.
